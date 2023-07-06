@@ -1,0 +1,72 @@
+swagger: '2.0'
+info:
+  description: LPT APis
+  version: 1.0.0
+  title: LPT Frontend API's
+basePath: /api/
+tags:
+  - name: Authentication
+    description: Authenticate Users
+  - name: Area
+    description: Fetch Area
+
+paths:
+  /auth/store/register:
+    $ref: "./Authentication/auth-register.yaml"
+
+  /auth/login:
+    $ref: "./Authentication/auth-login.yaml"
+
+  /logout:
+    $ref: "./Authentication/logout.yaml"
+
+  /auth/2fa:
+    $ref: "./Authentication/auth-2fa.yaml"
+
+  /2fa/status:
+    $ref: "./Authentication/2fa-status.yaml"
+
+  /2fa/change/request:
+    $ref: "./Authentication/2fa-request-status.yaml"
+
+  /2fa/change/status:
+    $ref: "./Authentication/2fa-change-status.yaml"
+
+  /auth/verify:
+    $ref: "./Authentication/auth-verify.yaml"
+
+  /auth/pinCode/send:
+    $ref: "./Authentication/resend-pin-code.yaml"
+
+  # /login/info/update:
+  #   $ref: "./Authentication/login-info.yaml"
+
+  # /login/info/confirm:
+  #   $ref: "./Authentication/login-info-confirm.yaml"
+
+  /auth/password/forget:
+    $ref: "./Authentication/forget-password-code.yaml"
+
+  /auth/password/reset:
+    $ref: "./Authentication/reset-password-code.yaml"
+
+  /auth/password/forget/link:
+    $ref: "./Authentication/forget-password-link.yaml"
+
+  /auth/password/reset/link:
+    $ref: "./Authentication/reset-password-link.yaml"
+
+  /auth/change-password:
+    $ref: "./Authentication/change-password.yaml"
+
+securityDefinitions:
+  bearerAuth:
+    type: apiKey
+    name: Authorization
+    in: header
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer

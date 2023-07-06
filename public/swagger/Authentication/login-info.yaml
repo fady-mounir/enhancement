@@ -1,0 +1,42 @@
+post:
+    tags:
+      - Authentication
+    summary: Change login-info
+    description: 'Change login-info'
+    operationId: Change login-info
+    security:
+    - bearerAuth: []
+    consumes:
+      - application/json
+    produces:
+      - application/json
+    parameters:
+    - name: request body
+      in: body
+      schema:
+        type: object
+        required:
+         - email
+         - old_password
+         - new_password
+         - new_password_confirmation
+        properties:
+          email:
+            type: string
+          old_password:
+            type: string
+          new_password:
+            type: string
+          new_password_confirmation:
+            type: string
+          first_name:
+            type: string
+          last_name:
+            type: string
+    responses:
+      '200':
+        description: successful operation
+      '400':
+        description: bad request
+      '422':
+        description: Validation exception

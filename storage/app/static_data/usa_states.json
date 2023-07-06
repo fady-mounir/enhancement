@@ -1,0 +1,253 @@
+[
+    {
+        "name": "Alabama",
+        "code": "AL",
+        "area_code": "205, 251, 256, 334, 938"
+    },
+    {
+        "name": "Alaska",
+        "code": "AK",
+        "area_code": "907"
+    },
+    {
+        "name": "Arizona",
+        "code": "AZ",
+        "area_code": "480, 520, 602, 623, 928"
+    },
+    {
+        "name": "Arkansas",
+        "code": "AR",
+        "area_code": "479, 501, 870"
+    },
+    {
+        "name": "California",
+        "code": "CA",
+        "area_code": "209, 213, 279, 310, 323, 341, 408, 415, 424, 442, 510, 530, 559, 562, 619, 626, 628, 650, 657, 661, 669, 707, 714, 747, 760, 764, 805, 818, 820, 831, 858, 909, 916, 925, 949, 951"
+    },
+    {
+        "name": "Colorado",
+        "code": "CO",
+        "area_code": "303, 719, 720, 970"
+    },
+    {
+        "name": "Connecticut",
+        "code": "CT",
+        "area_code": "203, 475, 860, 959"
+    },
+    {
+        "name": "Delaware",
+        "code": "DE",
+        "area_code": "302"
+    },
+    {
+        "name": "Florida",
+        "code": "FL",
+        "area_code": "239, 305, 321, 352, 386, 407, 561, 689, 727, 754, 772, 786, 813, 850, 863, 904, 941, 954"
+    },
+    {
+        "name": "Georgia",
+        "code": "GA",
+        "area_code": "229, 404, 470, 478, 678, 706, 762, 770, 912"
+    },
+    {
+        "name": "Hawaii",
+        "code": "HI",
+        "area_code": "808"
+    },
+    {
+        "name": "Idaho",
+        "code": "ID",
+        "area_code": "208"
+    },
+    {
+        "name": "Illinois",
+        "code": "IL",
+        "area_code": "217, 224, 309, 312, 331, 618, 630, 708, 773, 779, 815, 847, 872"
+    },
+    {
+        "name": "Indiana",
+        "code": "IN",
+        "area_code": "219, 260, 317, 463, 574, 765, 812, 930"
+    },
+    {
+        "name": "Iowa",
+        "code": "IA",
+        "area_code": "319, 515, 563, 641, 712"
+    },
+    {
+        "name": "Kansas",
+        "code": "KS",
+        "area_code": "316, 620, 785, 913"
+    },
+    {
+        "name": "Kentucky",
+        "code": "KY",
+        "area_code": "270, 364, 502, 606, 859"
+    },
+    {
+        "name": "Louisiana",
+        "code": "LA",
+        "area_code": "225, 318, 337, 504, 985"
+    },
+    {
+        "name": "Maine",
+        "code": "ME",
+        "area_code": "207"
+    },
+    {
+        "name": "Maryland",
+        "code": "MD",
+        "area_code": "227, 240, 301, 410, 443, 667"
+    },
+    {
+        "name": "Massachusetts",
+        "code": "MA",
+        "area_code": "339, 351, 413, 508, 617, 774, 781, 857, 978"
+    },
+    {
+        "name": "Michigan",
+        "code": "MI",
+        "area_code": "231, 248, 269, 313, 517, 586, 616, 679, 734, 810, 906, 947, 989"
+    },
+    {
+        "name": "Minnesota",
+        "code": "MN",
+        "area_code": "218, 320, 507, 612, 651, 763, 952"
+    },
+    {
+        "name": "Mississippi",
+        "code": "MS",
+        "area_code": "228, 601, 662, 769"
+    },
+    {
+        "name": "Missouri",
+        "code": "MO",
+        "area_code": "314, 417, 573, 636, 660, 816, 975"
+    },
+    {
+        "name": "Montana",
+        "code": "MT",
+        "area_code": "406"
+    },
+    {
+        "name": "Nebraska",
+        "code": "NE",
+        "area_code": "308, 402, 531"
+    },
+    {
+        "name": "Nevada",
+        "code": "NV",
+        "area_code": "702, 725, 775"
+    },
+    {
+        "name": "New Hampshire",
+        "code": "NH",
+        "area_code": "603"
+    },
+    {
+        "name": "New Jersey",
+        "code": "NJ",
+        "area_code": "201, 551, 609, 640, 732, 848, 856, 862, 908, 973"
+    },
+    {
+        "name": "New Mexico",
+        "code": "NM",
+        "area_code": "505, 575"
+    },
+    {
+        "name": "New York",
+        "code": "NY",
+        "area_code": "212, 315, 332, 347, 516, 518, 585, 607, 631, 646, 680, 716, 718, 838, 845, 914, 917, 929, 934, 947, 959"
+    },
+    {
+        "name": "North Carolina",
+        "code": "NC",
+        "area_code": "252, 336, 704, 743, 828, 910, 919, 980, 984"
+    },
+    {
+        "name": "North Dakota",
+        "code": "ND",
+        "area_code": "701"
+    },
+    {
+        "name": "Ohio",
+        "code": "OH",
+        "area_code": "216, 220, 234, 330, 380, 419, 440, 513, 567, 614, 740, 937"
+    },
+    {
+        "name": "Oklahoma",
+        "code": "OK",
+        "area_code": "405, 539, 580, 918"
+    },
+    {
+        "name": "Oregon",
+        "code": "OR",
+        "area_code": "458, 503, 541, 971"
+    },
+    {
+        "name": "Pennsylvania",
+        "code": "PA",
+        "area_code": "215, 223, 267, 272, 412, 445, 484, 570, 582, 610, 717, 724, 814, 878"
+    },
+    {
+        "name": "Rhode Island",
+        "code": "RI",
+        "area_code": "401"
+    },
+    {
+        "name": "South Carolina",
+        "code": "SC",
+        "area_code": "803, 839, 843, 854, 864"
+    },
+    {
+        "name": "South Dakota",
+        "code": "SD",
+        "area_code": "605"
+    },
+    {
+        "name": "Tennessee",
+        "code": "TN",
+        "area_code": "423, 615, 629, 731, 865, 901, 931"
+    },
+    {
+        "name": "Texas",
+        "code": "TX",
+        "area_code": "210, 214, 254, 281, 325, 346, 361, 409, 430, 432, 469, 512, 682, 713, 726, 737, 806, 817, 830, 832, 903, 915, 936, 940, 945, 956, 972, 979"
+    },
+    {
+        "name": "Utah",
+        "code": "UT",
+        "area_code": "385, 435, 801"
+    },
+    {
+        "name": "Vermont",
+        "code": "VT",
+        "area_code": "802"
+    },
+    {
+        "name": "Virginia",
+        "code": "VA",
+        "area_code": "276, 434, 540, 571, 703, 757, 804"
+    },
+    {
+        "name": "Washington",
+        "code": "WA",
+        "area_code": "206, 253, 360, 425, 509, 564"
+    },
+    {
+        "name": "West Virginia",
+        "code": "WV",
+        "area_code": "304, 681"
+    },
+    {
+        "name": "Wisconsin",
+        "code": "WI",
+        "area_code": "262, 274, 414, 534, 608, 715, 920"
+    },
+    {
+        "name": "Wyoming",
+        "code": "WY",
+        "area_code": "307"
+    }
+]
+

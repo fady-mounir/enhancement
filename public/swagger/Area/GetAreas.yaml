@@ -1,0 +1,28 @@
+get:
+  tags:
+    - Area
+  summary: Get Areas
+  description: 'Get States Information Api '
+  operationId: Get User Information
+  consumes:
+    - application/json
+  produces:
+    - application/json
+  parameters:
+    - name: api-key
+      in: header
+      description: an authorization header
+      required: true
+      type: string
+
+    - name: state_id
+      in: body
+      description: state_id
+      required: true
+      type: string
+
+  responses:
+    '200':
+      description: successful operation
+    '400':
+      description: Bad request
